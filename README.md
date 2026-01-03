@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Rudra Oberoi</h1>
+<p align="left">
+</p>
 👨‍💻 I’m currently working on  <br>• Android apps using Java & Kotlin  <br>• UI-rich applications with modern Android components  <br><br>🤝 I’m looking to collaborate on  <br>• Android app development projects  <br>• Open-source Android libraries & tools  <br><br>🛠️ I’m looking for help with  <br>• Advanced Android architecture (MVVM, Clean Architecture)  <br>• Performance optimization & best practices  <br><br>🌱 I’m currently learning  <br>• Jetpack components (Room, ViewModel, LiveData)  <br>• Kotlin Coroutines & modern Android development  <br><br>💬 Ask me about  <br>• Android Studio  <br>• Java & Kotlin for Android  <br>• App UI/UX and debugging  <br><br>⚡ Fun fact  <br>• I enjoy turning real-world problems into smooth Android apps 📱<br>
 
 
