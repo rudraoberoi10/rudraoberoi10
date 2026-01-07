@@ -1,4 +1,4 @@
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&width=535&lines=%E2%9C%A8+Hi%2C+I%27m+Rudra+Oberoi.+You+are+Welcome%21+%F0%9F%8C%9F)
 <p align="left">
 </p>
 👨‍💻 I’m currently working on  <br>• Android apps using Java & Kotlin  <br>• UI-rich applications with modern Android components  <br><br>🤝 I’m looking to collaborate on  <br>• Android app development projects  <br>• Open-source Android libraries & tools  <br><br>🛠️ I’m looking for help with  <br>• Advanced Android architecture (MVVM, Clean Architecture)  <br>• Performance optimization & best practices  <br><br>🌱 I’m currently learning  <br>• Jetpack components (Room, ViewModel, LiveData)  <br>• Kotlin Coroutines & modern Android development  <br><br>💬 Ask me about  <br>• Android Studio  <br>• Java & Kotlin for Android  <br>• App UI/UX and debugging  <br><br>⚡ Fun fact  <br>• I enjoy turning real-world problems into smooth Android apps 📱<br>
