@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&width=535&lines=%E2%9C%A8+Hi%2C+I%27m+Rudra+Oberoi.+You+are+Welcome%21+%F0%9F%8C%9F)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&width=535&lines=%E2%9C%A8+Hi%2C+I%27m+Rudra+Oberoi.)
 # Rudra Oberoi
 ###  🚀 Android Developer | Java & Kotlin Enthusiast
 
