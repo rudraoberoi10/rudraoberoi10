@@ -5,8 +5,17 @@
 I am a passionate Mobile App Developer focused on building smooth, user-friendly Android applications. I bridge the gap between complex backend logic and intuitive UI designs using **Java**, **Kotlin**, and **Android Studio**.
 
 # 💫 About Me:
-🔭 I’m currently working on a internship at InsuranceDekho and developing context-aware mobile apps.<br>👯 I’m looking to collaborate on native Android projects using Java/Kotlin and generative AI-driven mobile solutions.<br>🤝 I’m looking for help with optimizing complex backend integration pipelines and scaling distributed systems.<br>🌱 I’m currently learning Large Language Model integration, advanced cloud services, and next-generation AI workflows.<br>💬 Ask me about Android Studio, integrating the Google Gemini SDK, building modular OOP systems, and managing public relations for tech events.<br>⚡ Fun fact I use AI-assisted tools like Cursor and GitHub Copilot to drastically speed up my code workflows, but I still rely on solid Core Java logic to keep everything stable.
+🔭 Internship: Partner Tech Integration Intern at InsuranceDekho.
 
+👯 Collaborations: Native Android projects (Java/Kotlin) and GenAI-driven mobile solutions.
+
+🤝 Seeking Help: Optimizing complex backend pipelines and scaling distributed systems.
+
+🌱 Learning: LLM integration, advanced cloud services, and next-gen AI workflows.
+
+💬 Ask Me About: Android Studio, Gemini SDK, modular OOP systems, and event PR.
+
+⚡ Fun Fact: I use Cursor and Copilot to fly through workflows, but rely on Core Java to keep it stable.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudra_oberoii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rudra-oberoi-6a283628b) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Insane_Hawk1025) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rudra_Oberoii) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rudraaoberoi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudra.oberoi27@gmail.com) 
